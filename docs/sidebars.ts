@@ -911,7 +911,7 @@ const sidebars: SidebarsConfig =
       id: "glossary",
       label: "Glossary",
       customProps: {
-        icon: "HelpCircle"
+        icon: "List"
       },
     }
   ]
